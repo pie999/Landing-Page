@@ -98,3 +98,49 @@ a {
     height: 200px;
     border-radius: 10%;
 }
+
+
+.quote {
+    margin-top: 100px;
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 100px 200px;
+}
+
+.quote p {
+    font-size: 36px;
+    color:#1F2937;
+}
+
+
+.sign{
+    background-color: #3882F6;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sign h2 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.sign p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign button {
+    font-size: 18px;
+    font-weight: bold;
+    height: 50px;
+    padding: 8px 20px;
+    background-color: #3882F6;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: #E5E7EB;
+    color:#E5E7EB;
+}
