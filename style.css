@@ -144,3 +144,15 @@ a {
     border-color: #E5E7EB;
     color:#E5E7EB;
 }
+
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
